@@ -31,7 +31,7 @@ In this project, we restrict classification to only 9 players.
 1. UI : This contains ui website code
 2. server: Python flask server
 3. model: Contains python notebook for model building
-4. dataset:The dataset is a culmination of multiple kaggle imaage datasets.
+4. dataset:The dataset is a culmination of multiple kaggle imaage datasets, there are over 1500 images out of which 415 were used after feature extraction and cleaning.
    
 ## Technologies used in this project
 

@@ -1,3 +1,5 @@
+![Demo 2](https://github.com/Anshul-AM/Indian-Cricket-Legends-Recognition-System/assets/150291680/93c743f6-a7af-4144-8240-7351762a1e0a)
+
 # Indian Cricket Legends Recognition System
 This project aims to classify images of Indian cricket legends using machine learning techniques. The classifier can recognize and distinguish between different cricket icons based on facial features extracted from the images.
 
@@ -40,3 +42,4 @@ In this project, we restrict classification to only 9 players.
 * Jupyter notebook, visual studio code and pycharm as IDE
 * Python flask for http server
 * HTML/CSS/Javascript for UI
+![Demo1](https://github.com/Anshul-AM/Indian-Cricket-Legends-Recognition-System/assets/150291680/1d4ba593-30a2-476a-af6a-1d7ac9b5eb3b)

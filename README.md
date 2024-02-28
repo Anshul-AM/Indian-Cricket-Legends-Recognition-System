@@ -20,7 +20,7 @@ In this project, we restrict classification to only 9 players.
 5. Rahul Dravid
 6. Sachin Tendulkar
 7. Sourav Ganguly
-8. sunil_gavaskar
+8. Sunil Gavaskar
 9. Virat Kohli
 
     
